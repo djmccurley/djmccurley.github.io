@@ -2,13 +2,17 @@
 title: "Techno Lumina"
 subtitle: "Illustration | Lifestyle Brand"
 date: 2019-07-20 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Techno Lumina illustration and art project.
 featured_image: "/images/tl/tl_hero.jpg"
 ---
 
+![](/images/tl/tl_hero.jpg)
+
+## About
+
 Techno Lumina is an art project and lifestyle brand based in Des Moines, Iowa. Techno Lumina products feature bright colors, skulls, and brightly colored skulls coupled with the humor of an advanced middle-schooler. The project is named after a real life '98 Chevy Lumina that used to roam the streets of Cedar Falls, Iowa blasting techno music.
 
-Currently for sale at Mohair Pear in Cedar Falls and Domestica in Des Moines, as well as at select fairs and shows around the Midwest.
+Currently for sale at [Mohair Pear](http://www.mohairpearshop.com/) in Cedar Falls and [Domestica](https://www.domestica.shop/) in Des Moines, as well as at select fairs and shows around the Midwest.
 
 <div class="gallery" data-columns="4">
 	<img src="/images/tl/tl_17.jpg">
