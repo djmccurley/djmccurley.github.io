@@ -6,7 +6,7 @@ description: Design case study for Hy-Vee Aisles Online mobile app.
 featured_image: "/images/ao/ao-hero.jpg"
 ---
 
-![](/images/ao/ao-hero.jpg)
+![Aisles Online App with food in the background](/images/ao/ao-hero.jpg)
 
 ## Problem
 
@@ -14,7 +14,7 @@ We saw continually increasing mobile web traffic on Hy-Vee Aisles Online, but th
 
 ## Role
 
-As the lone UI/UX designer for the app, I was responsible for all things design-related: user research and testing, wireframing, visual design and content strategy. I collaborated with engineering teammates and senior leadership to drive user-centered outcomes and ensure design fidelity.
+As the lone UI/UX designer for the app, I was responsible for all things design-related: user research and testing, wireframing, visual design and content strategy. I collaborated with engineering teammates and senior leadership to drive user-centered outcomes and ensure design fidelity. I even contributed front-end code (React Native) during the crunch time leading to public launch.
 
 <div class="gallery" data-columns="2">
 	<img src="/images/ao/ao-wireframe-1.jpg">
@@ -27,25 +27,25 @@ Existing UX research and customer feedback around Aisles Online pointed to oppor
 
 We began every new feature or workflow by also articulating a clear goal for users. I then tested Sketch prototypes against that goal to arrive at an optimal solution prior to handing off any development work.
 
-![](/images/ao/ao-heatmaps.jpg)
+![Heatmaps from online user testing](/images/ao/ao-heatmaps.jpg)
 
 ## Solution
 
 Thanks to extensive user testing and beta user feedback during development, we delivered an app that makes it easy to shop and check out quickly from anywhere. Customers frequently comment that they now shop for groceries while at sporting events, spin class or from their couch.
 
 <div class="image-wrap">
-<img src="../images/ao/ao-motion-1.gif" style="box-shadow: 0px 3px 9px -2px rgba(0,0,0,.30); border-radius: 4px;">
+<img src="../images/ao/ao-motion-1.gif" alt="Interaction mockup for Aisles Online app" style="box-shadow: 0px 3px 9px -2px rgba(0,0,0,.30); border-radius: 4px;">
 </div>
 
 ## Challenges
 
 We often faced competing business priorities and user goals while designing the app. One concept allowed users to toggle between different modes of shopping: online vs in-store. While we thought this would help the app serve a greater number of customers, it ultimately proved very confusing and disorienting to users.
 
-![](/images/ao/ao-tabs.jpg)
+![Screenshots of Aisles Online App with Navigation tabs](/images/ao/ao-tabs.jpg)
 
-![](/images/ao/ao-result-1.png)
+![User testing results](/images/ao/ao-result-1.png)
 
-![](/images/ao/ao-result-2.png)
+![User testing results](/images/ao/ao-result-2.png)
 
 ## Outcomes
 
@@ -57,7 +57,7 @@ The app released to very strong organic growth and daily usage. Early app store 
 
 We continually saw the importance of challenging our assumptions through user-centered testing and feedback during the development of the app. While initially difficult given our tight agile cycles, this eventually made our small team much more efficient and drove a clearer roadmap and strategy for the app. It also resulted in better customer outcomes and adoption rates from initial launch.
 
-![](/images/ao/ao-showcase-1.jpg)
+![Aisles Online App showcase](/images/ao/ao-showcase-1.jpg)
 
 ## Download
 
