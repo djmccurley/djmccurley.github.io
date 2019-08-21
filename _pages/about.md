@@ -15,4 +15,4 @@ featured_image: /images/demo/demo-landscape.jpg
 
 Strong professional experience in the retail sector, higher education, interpersonal communication and qualitative & quantitative research.
 
-<a href="/contact" class="button button--large">Get In Touch</a>
+<a href="mailto:djmccurley@gmail.com" class="button button--large">Email Me</a>
