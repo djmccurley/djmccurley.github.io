@@ -3,7 +3,7 @@ title: "Grocery Design System"
 subtitle: "Design Systems | Product Design"
 date: 2019-08-10 00:00:00
 description: Case study for Grocery Design System.
-featured_image: "https://placehold.it/800x500"
+featured_image: "/images/gds/gds-hero.png"
 ---
 
 ![Grocery Design Icons](/images/gds/grocery-icons.png)
@@ -56,3 +56,5 @@ Adopting the Grocery Design System freed up more time for research, prototyping 
 ## Reflection
 
 We learned that by minimizing the amount of choices to be made around a feature's design, we can maximize the output and efficiency of a small team. The Grocery Design System provides a solid foundation from which we can scale the Aisle Online app and better serve customers at the same time.
+
+![Grocery Design Icons](/images/gds/ao-icons.png)

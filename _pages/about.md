@@ -11,7 +11,7 @@ featured_image: /images/demo/demo-landscape.jpg
 - Visual Communication
 - UX Research & User Testing
 - Prototyping
-- Front-End Development (HTML, CSS, SASS, JS, React Native)
+- Front-End Development (HTML, CSS/SASS, JS, React Native)
 
 Strong professional experience in the retail sector, higher education, interpersonal communication and qualitative & quantitative research.
 
