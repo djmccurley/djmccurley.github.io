@@ -3,10 +3,10 @@ title: "Techno Lumina"
 subtitle: "Illustration | Lifestyle Brand"
 date: 2019-07-20 00:00:00
 description: Techno Lumina illustration and art project.
-featured_image: "/images/tl/tl_hero.jpg"
+featured_image: "/images/tl/tl-sign.jpg"
 ---
 
-![](/images/tl/tl_hero.jpg)
+![](/images/tl/tl-sign.jpg)
 
 ## About
 
@@ -20,7 +20,7 @@ Currently for sale at [Mohair Pear](http://www.mohairpearshop.com/) in Cedar Fal
 	<img src="/images/tl/tl_1.jpg">
 	<img src="/images/tl/tl_21.jpg">
 	<img src="/images/tl/tl_18.jpg">
-	<img src="/images/tl/tl_20.jpg">
+	<!-- <img src="/images/tl/tl_20.jpg"> -->
 	<img src="/images/tl/tl_2.jpg">
 	<img src="/images/tl/tl_4.jpg">
 	<img src="/images/tl/tl_7.jpg">
